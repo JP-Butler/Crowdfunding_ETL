@@ -16,8 +16,9 @@ In this project, we practiced building an ETL pipeline to process crowdfunding d
   - PostgreSQL
   - Jupyter Notebook
   - Excel
+    
 # Resources
 1. Modules 9 to 12: In Class Activities
-2. Class Instructor: Arooj A Qureshi
-3. TA Instructor: Abdo
-4. Collaborated with other students in the class
+2. Collaborated with Brett Chau-Dang and Dario Micucci
+3. Class Instructor: Arooj A Qureshi
+4. TA Instructor: Abdelrahman "Abdo" Elewah
