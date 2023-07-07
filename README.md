@@ -11,8 +11,8 @@ In this project, we practiced building an ETL pipeline to process crowdfunding d
 - Create the Crowdfunding Database
 
 # Utilized 
-Python
-Pandas
-PostgreSQL
-Jupyter Notebook
-Excel
+  - Python
+  - Pandas
+  - PostgreSQL
+  - Jupyter Notebook
+  - Excel
