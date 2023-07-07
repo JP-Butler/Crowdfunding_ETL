@@ -19,6 +19,6 @@ In this project, we practiced building an ETL pipeline to process crowdfunding d
     
 # Resources
 1. Modules 9 to 12: In Class Activities
-2. Collaborated with Brett Chau-Dang and Dario Micucci
+2. Collaborated with fellow classmates
 3. Class Instructor: Arooj A Qureshi
 4. TA Instructor: Abdelrahman "Abdo" Elewah
